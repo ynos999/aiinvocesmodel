@@ -5,7 +5,7 @@
 ### python.exe -m pip install --upgrade pip
 ### pip install -r requirements.txt
 ### python generate_invoices.py
-### python test2.py
+### python 2.learn_model.py
 ### python 3.invoices_processor.py .\invoices\pdf\invoice_11.pdf
 ### python 3.invoices_processor.py .\sample-invoice.pdf
 ### python 4.update_invoices_model.py
