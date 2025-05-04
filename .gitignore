@@ -1,0 +1,5 @@
+venv
+.env
+.venv
+invoices
+invoice_ner_model
